@@ -114,7 +114,7 @@ function Home(props) {
 
           <div className="search_field">
             <button className="btn_search" style={{ background: "none" }}>
-              <img width={20} height={20} src="img/search.png" alt="search" />
+              <img width={20} height={20} src={process.env.PUBLIC_URL + '/img/search.png'} alt="search" />
             </button>
             <input
               type="text"
