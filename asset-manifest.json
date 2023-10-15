@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ReactJewelry/static/css/main.9610a162.css",
+    "main.js": "/ReactJewelry/static/js/main.f13c7806.js",
+    "static/media/original_size.jpg": "/ReactJewelry/static/media/original_size.e926a8ad9ab9c5291a43.jpg",
+    "static/media/topaz.jpg": "/ReactJewelry/static/media/topaz.ec73d65ce16bcddff761.jpg",
+    "static/media/brilliants_1.jpg": "/ReactJewelry/static/media/brilliants_1.e1d314f0e2d619668948.jpg",
+    "static/media/baronneue.ttf": "/ReactJewelry/static/media/baronneue.c995e438da942f09befc.ttf",
+    "static/media/baronneue.woff": "/ReactJewelry/static/media/baronneue.224282bf2c619f194b4c.woff",
+    "static/media/baronneue.woff2": "/ReactJewelry/static/media/baronneue.ed834bc9a9e36346e257.woff2",
+    "index.html": "/ReactJewelry/index.html",
+    "main.9610a162.css.map": "/ReactJewelry/static/css/main.9610a162.css.map",
+    "main.f13c7806.js.map": "/ReactJewelry/static/js/main.f13c7806.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9610a162.css",
+    "static/js/main.f13c7806.js"
+  ]
+}
