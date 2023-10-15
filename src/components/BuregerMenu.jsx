@@ -71,6 +71,7 @@ function BurgerMenu(props) {
             <li><Link to='/orders'>Заказы</Link></li>
             <li>REPO</li>
             <li>About</li>
+            <li onClick={() => localStorage.clear()}>localStorage.clear()</li>
         </ul>
        
     </div>
