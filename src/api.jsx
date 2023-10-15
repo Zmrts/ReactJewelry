@@ -7,7 +7,7 @@ const datalist = [
         id: 1,
         title: 'Кольцо с выращенным бриллиантом',
         description: '',
-        image: '/img/shop_item_1.png',
+        image: 'img/shop_item_1.png',
         price: 12999,
         isSale: false,
     },
